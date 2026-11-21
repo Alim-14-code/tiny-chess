@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/Alim-14-code/tiny-chess/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/Alim-14-code/tiny-chess/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A compact chess engine in a single Python file (`main.py`, 4,078 bytes,
+A compact chess engine in a single Python file (`main.py`, 4,085 bytes,
 stdlib only). 0x88 board, negamax + PVS, transposition table, MVV-LVA and
 killer move ordering, quiescence search (captures, promotions, check
 evasions), check extensions, null-move pruning, and iterative deepening to
